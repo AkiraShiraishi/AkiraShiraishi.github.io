@@ -16,7 +16,7 @@ const db = getFirestore(app);
 
 // コメントの追加関数
 async function addComment() {
-    const comment = document.getElementById("comment").value;
+    const comment = document.getElementById("comment-form").value;
     if (comment) {
         // 現在のファイル名を取得し、拡張子を削除
         const fileName = location.pathname.split("/").pop().replace(/\.(html|md)$/, "");
@@ -25,7 +25,7 @@ async function addComment() {
             text: comment,
             timestamp: serverTimestamp()
         });
-        document.getElementById("comment").value = "";
+        document.getElementById("comment-form").value = "";
     }
 }
 
