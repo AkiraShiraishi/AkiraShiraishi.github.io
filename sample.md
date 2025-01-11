@@ -7,4 +7,4 @@
 - これはリスト（箇条書き）です。
 - これはリストの2行目です。
 
-Markdownのまとめ: [README.mdファイル。マークダウン記法まとめ | codechord](http://codechord.com/2012/01/readme-markdown/)
+Markdownのまとめ: [README.mdファイル。マークダウン記法まとめ codechord](http://codechord.com/2012/01/readme-markdown/)
