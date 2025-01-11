@@ -1,13 +1,16 @@
 ---
 layout: default
 title: 肉の無線
-description: 宇宙一需要のないブログ
+description: Akira Shiraishi's blog
 ---
+<link rel="icon" href="https://shiraki22.com/favicon.ico">
+
 # ブログ新規開設
 どんなサービスを使おうかず～っと悩んだ末、GitHub Pagesにてブログを開設することにしました．既存のブログサービスは広告だらけ、〇〇oggerはデザインが石器時代のそれ、〇〇rdPressは日本語テーマが少なすぎ、〇〇vableTypeはインストールが面倒．結果ここに行き着きました．  
 　これはマークダウンで記述するだけで自動的にHTMLにビルドしてくれるので記述量が少なくて済みます．あとテーマがシンプルできれいなので採用しました．VSCodeでちゃちゃっと書いてコミット→プッシュするだけで完了です．もはやWordPressのエディターより速いかもしれませんね．
 
 ## 料理
+### [2025-01-11 ヨドバシAkiba 8階 小陽春](/sample)
 ### [2025-01-11 ウサギ肉の旨さを語る](/sample)
 ### [2025-01-11 南アルプスの天然水は水を超越している話](/sample)
 
@@ -23,26 +26,40 @@ description: 宇宙一需要のないブログ
 ### [2025-01-11 原神](/sample)
 
 ## 音楽
-### [2025-01-11 獣ゆく細道](/sample)
+### [2025-01-11 獣ゆく細道 歌詞のよさを語る](/sample)
 ### [2025-01-11 KingGnu，V.W.P，理芽，BiSH，HOYO-MiX](/sample)
 
 ## 本
 ### [2025-01-11 高瀬舟](/sample)
 ### [2025-01-11 オープンサーキット](/sample)
-### [2025-01-11 おすすめの書籍](/sample)
+### [2025-01-11 天才たちのつくった単位の世界](/sample)
+### [2025-01-11 世界一簡単なLEDのきほん―ゼロから理解する](/sample)
+### [2025-01-11 ビーカーくんのゆかいな化学実験 その手順にはワケがある!](/sample)
+### [2025-01-11 サイバー攻撃 ネット世界の裏側で起きていること](/sample)
+### [2025-01-11 毒物雑学事典―ヘビ毒から発ガン物質まで](/sample)
+### [2025-01-11 AI vs. 教科書が読めない子どもたち](/sample)
+
+## 索道
+### [2025-01-11 Nippon Cable](/sample)
 
 ## ヒューマノイド関連
 ### [2025-01-11 ヒューマノイド設計理念](/sample)
+### [2025-01-11 シロアジサシの可愛さについて](/sample)
 
 ## 化学
 ### [2025-01-11 リシンの抽出・精製](/sample)
 ### [2025-01-11 手作業で希硫酸を濃縮するには](/sample)
 
-## 電気・電子・物理
+## 機械
+### [2025-01-11 2サイクルエンジンのしくみ](/sample)
+### [2025-01-11 除雪機HSTオイル交換](/sample)
+### [2025-01-11 小水力発電](/sample)
+
+## 電気・電子
 ### [2025-01-11 写ルンですを改造して蛍光灯を点けてみる](/sample)
 ### [2025-01-11 絶対に二度寝しないアラームを作る](/sample)
 ### [2025-01-11 【誘導加熱】磁石を回転させてお湯を沸かす](/sample)
-### [2025-01-11 VVVF](/sample)
+### [2025-01-11 VVVFで扇風機を作ってみる](/sample)
 ### [2025-01-11 【mico/moco】MIDI↔USB変換インターフェイスを自作する](/sample)
 ### [2025-01-11 300円でできるラジオ発信機](/sample)
 
@@ -66,16 +83,5 @@ description: 宇宙一需要のないブログ
 ### [2025-01-11 クリエイターの未来を考察する](/sample)
 
 --- 
-### コメント
-<link rel="stylesheet" href="comment.css">
-<script src="comment.js" type="module"></script>
-
-<div class="group">
-  <input required="" type="text" id="comment-form" class="ef">
-  <span class="highlight"></span>
-  <span class="bar"></span>
-  <label>コメントする...</label>
-  <button class="button-17" onclick="addComment()">コメント</button>
-</div>
-<br>
-<ul id="comments"></ul>
+© Copyright 2025 Akira Shiraishi All rights reserved.  
+Unless otherwise noted, content on this site is licensed under CC BY-SA 4.0.
