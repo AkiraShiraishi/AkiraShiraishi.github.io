@@ -70,3 +70,18 @@ description: Waifu3.0 開発理念
 <div style="text-align: right;">
 令和6年10月28日 白石明
 </div>
+
+--- 
+### コメント
+<link rel="stylesheet" href="comment.css">
+<script src="comment.js" type="module"></script>
+
+<div class="group">
+  <input required="" type="text" id="comment-form" class="ef">
+  <span class="highlight"></span>
+  <span class="bar"></span>
+  <label>コメントする...</label>
+  <button class="button-17" onclick="addComment()">コメント</button>
+</div>
+<br>
+<ul id="comments"></ul>
