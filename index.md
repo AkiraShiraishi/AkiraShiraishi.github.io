@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 牛乳電荷
-description: No Pain No Gain
+description: この世は無常
 ---
 
 # ブログ新規開設
