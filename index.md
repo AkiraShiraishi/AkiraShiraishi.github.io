@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 牛乳電荷
-description: 開栓後要冷蔵
+title: あらがね
+description: 山から掘り出したままの精錬していない金属。
 ---
 
 # ブログ新規開設
