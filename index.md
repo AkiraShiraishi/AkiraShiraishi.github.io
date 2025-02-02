@@ -7,7 +7,7 @@ description: 白石明の書き付け
 > 川はいつも流れていなければならぬ。頭はいつも冷えていなければならぬ。目はいつも澄んでいなければならぬ。心はいつも燃えていなければならぬ。 ― 坂村真民
 
 --- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2ca4eu189u5s14sow7anndgo1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2ca4eu189u5s14sow7anndgo1&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2ca4eu189u5s14sow7anndgo1&redirect=true)
 
 
 ## **ヒューマノイド関連**
