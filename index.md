@@ -1,7 +1,7 @@
 ---
 layout: default
 title: あらがね
-description: 白石明の書き付け
+description: Look Deeper.
 ---
 
 > 川はいつも流れていなければならぬ。頭はいつも冷えていなければならぬ。目はいつも澄んでいなければならぬ。心はいつも燃えていなければならぬ。 ― 坂村真民
