@@ -1,7 +1,7 @@
 ---
 layout: default
 title: あらがね
-description: 無けなしの命がひとつ．だうせなら使ひ果たさうぜ．
+description: 無けなしの命がひとつ．だうせなら使ひ果たさうぜ． - 椎名林檎
 ---
 
 ## **ヒューマノイド関連**
@@ -28,4 +28,3 @@ Waifu3.0の公式文書にする前の内容を載せています．
 
 --- 
 © Copyright 2025 Akira Shiraishi All rights reserved.  
-Unless otherwise noted, content on this site is licensed under CC BY-SA 4.0.
