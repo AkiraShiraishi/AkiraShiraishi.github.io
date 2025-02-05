@@ -1,7 +1,11 @@
 ---
 layout: default
 title: あらがね
-description: 無けなしの命がひとつ だうせなら使ひ果たさうぜ - 椎名林檎
+description: なけなしの命がひとつ どうせなら使い果たそうぜ
+---
+
+<p style="text-align:right;">椎名林檎と宮本浩次「獣ゆく細道」より</p>
+
 ---
 
 ## **ヒューマノイド関連**
